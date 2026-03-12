@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:*)",
+      "Bash(echo:*)",
+      "Bash(ls:*)",
+      "Bash(test:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(head:*)",
+      "Bash(wc:*)"
+    ]
+  }
+}
